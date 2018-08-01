@@ -1,2 +1,2 @@
-# Code_Marsh_proj
-Using marsh code dictionary to convert blinking of eyes to English
+# Code_Morse_proj
+Using morse code dictionary to convert blinking of eyes to English
